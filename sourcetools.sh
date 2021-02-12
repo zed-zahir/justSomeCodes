@@ -3,7 +3,6 @@
 sudo apt update
 sudo apt upgrade -y
 
-sudo apt install python2.7 -y
 sudo apt install python3 -y
 sudo apt install git -y
 sudo apt install gcc -y
@@ -70,7 +69,6 @@ sudo snap install intellij-idea-community --classic
 sudo snap install pycharm-community --classic
 sudo snap install spotify
 sudo snap install timeline
-#sudo snap install odio
 clear
 
 echo "======= YOU NEED TO DOWNLOAD AND INSTALL THESE ======="
@@ -88,3 +86,4 @@ echo "* vmware"
 echo "* discord"
 echo "* 4kdownloader"
 echo "* peek"
+echo "* shortwave"
